@@ -1,2 +1,2 @@
 countdown = 10
-while 
+while countdown >= 1
